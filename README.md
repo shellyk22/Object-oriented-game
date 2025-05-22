@@ -88,3 +88,5 @@ using intelliJ tool for java is the best option
 * Collision detection uses geometric math and bounding boxes.
 * Followed strict Java coding style and modular design.
 project is part of a university course and is intended for educational purposes only.
+
+![alt text](image.png)
