@@ -89,4 +89,7 @@ using intelliJ tool for java is the best option
 * Followed strict Java coding style and modular design.
 project is part of a university course and is intended for educational purposes only.
 
-![alt text](image.png)
+---
+## Example
+hare we can see a game, initialized with 2 balls, whan one is black (hasnt heet a block yet) and the other is green , because it hit a block and inherited its color 
+![alt text](image-1.png)
